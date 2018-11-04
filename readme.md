@@ -4,7 +4,8 @@
 ## You will create this webpage and an additional Form Page
 
 ## Just follow the instruction steps here to re-create these webpages!
-```1. Create a general landing page with a JumboTron
+```
+1. Create a general landing page with a JumboTron
 2. Next create a NavBar on the Page that links to another html file
 3. Add two paragrahs of lorem-ipsum below the jumbotron
 4. Next use the Grid system to add in thumbnail pictures of coffee.
